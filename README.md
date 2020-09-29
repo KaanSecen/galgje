@@ -22,3 +22,4 @@ req5: M
 res5: Nee, Dat is fout Tip: School
 req6: C
 res6: Dat is fout. Tip: Persoon
+req7: T
