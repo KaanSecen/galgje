@@ -10,5 +10,6 @@
 ![gallow](./images/1.png)
 
 ## Beurten
-rep1: E
+req1: E
 res1: Ja, goedzo
+seq2: I
