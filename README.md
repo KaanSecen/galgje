@@ -12,5 +12,6 @@
 ## Beurten
 req1: E
 res1: Ja, goedzo
-seq2: I
+req2: I
 res2: Nee, Fout HAHA
+req3: U
