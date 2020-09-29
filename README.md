@@ -20,3 +20,4 @@ req4: A
 res4: Nee, Dat is fout
 req5: M
 res5: Nee, Dat is fout Tip: School
+req6: C
