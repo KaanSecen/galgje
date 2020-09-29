@@ -7,7 +7,7 @@
 |1|2|3|4|5|6|7|8|9|10|11|
 
 ## Score
-![gallow](./images/5.png)
+![gallow](./images/6.png)
 
 ## Beurten
 req1: E
@@ -21,3 +21,4 @@ res4: Nee, Dat is fout
 req5: M
 res5: Nee, Dat is fout Tip: School
 req6: C
+res6: Dat is fout. Tip: Persoon
